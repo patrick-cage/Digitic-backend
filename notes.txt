@@ -1,0 +1,3 @@
+start server with npm run server
+using cloudiary for patrickmangara@gmail logs in with google instead of pass
+in herehttp://localhost:5000/api/product/upload/6519fe2ba4d8e3cc4da10e5e this bit 6519fe2ba4d8e3cc4da10e5e refers to the id of the product in thr db
